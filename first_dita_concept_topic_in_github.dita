@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="first_dita_concept_topic_in_github">
+    <title>First DITA concept topic in GitHub</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <author type="creator">enzo</author>
+        <critdates>
+            <created date="2024-11-09"/>
+        </critdates>
+    </prolog>
+    <conbody>
+        <p>This is my first try to manage versions of DITA files in GitHub.</p>
+    </conbody>
+</concept>
